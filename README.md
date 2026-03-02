@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0707-design-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
