@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Alisha1807/daily-leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Alisha1807/daily-leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Alisha1807/daily-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Alisha1807/daily-leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Alisha1807/daily-leetcode/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Alisha1807/daily-leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
