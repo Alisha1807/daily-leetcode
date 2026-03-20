@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Alisha1807/daily-leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Alisha1807/daily-leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Alisha1807/daily-leetcode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Alisha1807/daily-leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Alisha1807/daily-leetcode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Alisha1807/daily-leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Alisha1807/daily-leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
